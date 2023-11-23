@@ -1,7 +1,7 @@
 {
-  "name": "strategy-validator",
+  "name": "ta-strategy-validator",
   "version": "1.0.0",
-  "description": "Strategies validator",
+  "description": "TA strategies validator",
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
